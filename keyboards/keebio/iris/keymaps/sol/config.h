@@ -1,0 +1,7 @@
+#pragma once
+
+#define EE_HANDS
+#define RGBLIGHT_LAYERS
+#define RGBLIGHT_LAYERS_OVERRIDE_RGB_OFF
+#define TAPPING_TERM 175
+#define PERMISSIVE_HOLD
